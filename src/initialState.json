@@ -1,0 +1,53 @@
+[
+  {
+    "type": "recipe",
+    "name": "Tarte tatin",
+    "ingredients": [],
+    "recipes": [],
+    "steps": [
+      "step 1",
+      "step 2"
+    ]
+  },
+  {
+    "type": "recipe",
+    "name": "Boeuf bourguignon",
+    "ingredients": [],
+    "recipes": [],
+    "steps": [
+      "step 1",
+      "step 2",
+      "step 3"
+    ]
+  },
+  {
+    "type": "recipe",
+    "name": "Lasagnes à la bolognaise",
+    "ingredients": [],
+    "recipes": [],
+    "steps": [
+      "step 1",
+      "step 2",
+      "step 3",
+      "step 4"
+    ]
+  },
+  {
+    "type": "ingredient",
+    "name": "Beurre",
+    "price": 6.90,
+    "allergens": ["allergen1", "allergen2"]
+  },
+  {
+    "type": "ingredient",
+    "name": "Eau",
+    "price": 0.90,
+    "allergens": []
+  },
+  {
+    "type": "ingredient",
+    "name": "Oignon",
+    "price": 1,
+    "allergens": []
+  }
+]

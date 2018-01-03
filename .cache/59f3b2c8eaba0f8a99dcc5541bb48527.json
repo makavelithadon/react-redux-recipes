@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./_compareAscending","loc":{"line":1,"column":31}}],"generated":{"js":"var r=require(\"./_compareAscending\");function e(e,i,n){for(var t=-1,a=e.criteria,c=i.criteria,u=a.length,d=n.length;++t<u;){var o=r(a[t],c[t]);if(o){if(t>=d)return o;return o*(\"desc\"==n[t]?-1:1)}}return e.index-i.index}module.exports=e;"},"hash":"9dd2ecae5dc1e2fd3c83ac10d88f10be"}
